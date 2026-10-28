@@ -4,7 +4,7 @@
 
 ## 🔧 What you'll find here
 
-- **[BeamValidation](https://github.com/Siboi420/BeamValidation)** — Python framework for ACI 318-14 RC beam capacity checks, validated against 50 published laboratory experiments. Currently under journal review (SINTA 1).
+- **[BeamValidation](https://github.com/Siboi420/BeamValidation)** — Python framework for ACI 318-14 RC beam capacity checks, validated against 50 published laboratory experiments.
 - **[etabs-extractor](https://github.com/Siboi420/etabs-extractor)** — ETABS model data extraction toolkit.
 - **[seismic-ai-tools](https://github.com/Siboi420/seismic-ai-tools)** — AI-assisted seismic analysis utilities.
 
